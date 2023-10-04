@@ -46,6 +46,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 * Message Sign-in Spec: SolanaPay is working on adding the ability to sign messages, enhancing user verification without requiring a transaction.
 
+# Good Resources
+
+* https://www.youtube.com/watch?v=8mIBeDMgTDc
+* https://www.quicknode.com/guides/solana-development/solana-pay/getting-started-with-solana-pay
+* https://www.quicknode.com/guides/solana-development/solana-pay/add-solana-pay-to-your-web-app
+* https://www.youtube.com/watch?v=U2r3I77XqPM
+
 ## Getting Started
 
 First, run the development server:
