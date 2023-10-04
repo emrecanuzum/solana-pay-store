@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 # Opinions
 
-## Fields of SolanaPay:
+## Fields of SolanaPay:
 
 * Payments and Commerce Protocol: SolanaPay serves as a payments and commerce protocol for the Solana blockchain.
 
@@ -24,7 +24,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 * Message Sign-in Spec: SolanaPay is working on expanding its capabilities to support message sign-in, enabling users to verify their identity without sending a transaction.
 
-## Differences Compared to Normal Solana Transactions:
+## Differences Compared to Normal Solana Transactions:
 
 * No Need to Connect Wallet First: SolanaPay allows users to sign transactions without connecting their wallet first, offering a more seamless experience.
 
